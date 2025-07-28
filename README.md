@@ -19,7 +19,7 @@ Soft Skills: Analytical thinking, technical documentation, teamwork, and time ma
 
 💼 Professional Experience
 
-Computer Science Student | [Your University] | [Start Date] - Present
+Computer Science Student | SNHU | 05/25 - Present
 
 Studying core computer science concepts including algorithms, data structures, and software engineering.
 Building projects in [e.g., Python, Java, or web development] to apply theoretical knowledge.
@@ -45,3 +45,9 @@ Relevant coursework: Data Structures, Algorithms, Object-Oriented Programming, D
 Associate’s Degree in Laser Electro-Optics Technology
 Idaho State University, 2005
 Relevant coursework: Optics, Electronics, Control Systems.
+
+🌐 Connect with Me
+
+📧 Email: tumahub@gmail.com
+🔗 LinkedIn: www.linkedin.com/in/cameron-mitchell-425a8a113
+🐙 GitHub: https://github.com/tumahub
