@@ -39,7 +39,7 @@ Worked with elite laser companies such as Raytheon and MKS Spectra-Physics.
 🎓 Education
 
 Bachelor’s Degree in Computer Science (In Progress)
-SNHU, Expected Graduation: Mid to Late 2026
+SNHU, Expected Graduation: July 2026
 Relevant coursework: Data Structures, Algorithms, Object-Oriented Programming, Databases, [others].
 
 Associate’s Degree in Laser Electro-Optics Technology
